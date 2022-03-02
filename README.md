@@ -34,8 +34,8 @@
         <ul>
          <li>Make: it compiles directly</li>
          <li>Make re: if the project is already compiled, it does it again</li>
-         <li>Make clean. Deletes all .o files but the executable remains</li>
-         <li>make fclean: deletes all .o files and the executable</li>
+         <li>Make clean. Deletes all .o files but the library .a remains</li>
+         <li>make fclean: deletes all .o files and the library .a</li>
     </ul>
     </p>
 </div>
