@@ -27,3 +27,15 @@
   </ul>
   </p>
 </div>
+<h2>Usage</h2>
+<div>
+    <p>
+        With the Makefile you can compile directly. The rules that it allows are:
+        <ul>
+         <li>Make: it compiles directly</li>
+         <li>Make re: if the project is already compiled, it does it again</li>
+         <li>Make clean. Deletes all .o files but the executable remains</li>
+         <li>make fclean: deletes all .o files and the executable</li>
+    </ul>
+    </p>
+</div>
